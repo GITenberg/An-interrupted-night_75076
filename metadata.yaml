@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '2299'
     url: http://www.gutenberg.org/2009/agents/2299
     wikipedia: https://en.wikipedia.org/wiki/Grace_Livingston_Hill
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alden, Isabella M.
     gutenberg_agent_id: '57812'
     url: http://www.gutenberg.org/2009/agents/57812
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75076#An-interrupted-night
 gutenberg_issued: '2025-01-10'
 gutenberg_type: Text
 identifiers:
